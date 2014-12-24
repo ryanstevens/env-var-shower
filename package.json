@@ -1,11 +1,15 @@
 {
   "name": "env-var-shower",
   "version": "1.0.0",
-  "description": "",
+  "description": "Just a quick way to test",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Jeremiah Lee",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeremiahlee/env-var-shower.git"
+  }
 }
